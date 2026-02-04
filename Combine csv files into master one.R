@@ -1,6 +1,6 @@
 # FUNCTION TO EASY LOADING DATA FROM SEVERAL .CSV FILES                                     ##
 # 27/05/2022
-
+#
 # CREATE DUMMY DATA from PENGUINS DATASET #
 
 # Function: write_csv; Package: readr                                          #
